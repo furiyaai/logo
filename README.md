@@ -1,2 +1,2 @@
 # logo
-Project logo - Furiya AI
+Furiya AI project logo
